@@ -5,3 +5,11 @@
     padding: 3rem 1rem;
     background: #002d688c;
 }
+
+.app__dark {
+    background: #2a2a2a;
+}
+
+.app__light {
+    background: #f7f7f7;
+}
