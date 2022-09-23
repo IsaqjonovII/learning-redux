@@ -19,7 +19,6 @@ const Profile = () => {
             <p>Age: {user.age}</p>
             <p>Email: {user.email}</p>
             <button onClick={changeAppTheme}>change theme</button>
-
         </div>
     )
 }
